@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Murilo Barbosa. :)
 
 
-- 🔭 Procurando oportunidades tanto para back-end como para front-end.
+- 🔭 Procurando oportunidade!!!  xD
 - 🌱 Estudando React.JS, Vue.JS, Phyton, PHP
 - 📫 That's how you can find me: murilo01313uhbsnq@gmail.com
 
