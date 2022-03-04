@@ -2,7 +2,7 @@
 
 
 - 🔭 Procurando oportunidade!!!  xD
-- 🌱 Estudando React.JS, Vue.JS, Phyton, PHP
+- 🌱 Estudando RubyOnRails, Vue.JS, Phyton, PHP
 - 📫 That's how you can find me: murilo01313uhbsnq@gmail.com
 
 
