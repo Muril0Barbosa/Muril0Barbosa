@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Murilo Barbosa. :)
 
 
-- 🔭 Procurando oportunidade!!!  xD
-- 🌱 Estudando RubyOnRails, Vue.JS, Phyton, PHP
+- 🔭 Atualmente, estou me dedicando ao estudo de Análise e Desenvolvimento de Sistemas, aprimorando habilidades em Cypress e Postman para automação de testes em QA. Minha paixão pela tecnologia e comprometimento com a qualidade me impulsionam a buscar sempre a excelência nas aplicações que testo, visando uma experiência de usuário impecável. 
+- 🌱 Estudando JavaScript, Postman, Cypress, Scrum, Agile, etc.
 - 📫 That's how you can find me: murilo01313uhbsnq@gmail.com
 
 
